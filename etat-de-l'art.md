@@ -21,6 +21,9 @@ Ces innovations technologiques successives, premières tentatives de resynthéti
 
 En 1952, la firme américaine RCA (Radio Corporation of America) développe le premier synthétiseur créé par Harry Olson et Herbert Belar, capable de créer artificiellement des sons.
 
+<p align="center"><img src="images/rca.png" width="500" /></p>
+
+
 A la même époque, Max Matthews, ingénieur à la Bell Telephone invente la synthèse digitale : les sons les plus insolites peuvent être créés à partir de signaux numériques. La mise à disposition d’un instrument générateur de son transforme dès lors la relation avec la machine. Désormais, les ressources nécessaires à la composition de musique électronique sont accessibles en dehors des studios.
 
 Il faut attendre les années 60 et la miniaturisation du transistor pour vraiment parler de synthétiseur moderne.
