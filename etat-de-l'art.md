@@ -4,7 +4,7 @@ La naissance des sons synthétiques remonte au début du XXe siècle, lorsque le
 
 Les premières tentatives d’élargir la palette des instruments commencent avec le Theremin (ou Etherphone, 1922), les ondes Martenot (1928) et le Trautonium (1930). Ces premières machines musicales témoignent d’un attrait grandissant pour l’expérimentation et la mécanisation de l’exécution musicale.
 
-<p align="center"><img src="images/machines.png" width="300" /></p>
+<p align="center"><img src="images/machines.png" width="500" /></p>
 
 
 La maîtrise des techniques d’oscillations électriques d’amplification et de restitution des sons par l’intermédiaire de haut-parleurs est décisive et permet l’éclosion des procédés électriques puis électroniques de génération sonore. Cette génération sonore peut être appelée « analogique », l’origine du son généré après amplification et diffusion étant une oscillation électrique analogue à l’onde sonore générée.
