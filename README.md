@@ -44,6 +44,10 @@ ou
 - β = la fréquence de modulation en rad/s
 - ***I = d/m*** = l'indice de modulation, le rapport entre l'écart maximal et la fréquence de modulation.
 
+La largeur de bande totale est approximativement égale à deux fois la somme de l'écart de fréquence et de la fréquence de modulation : ***BW = 2 ( d + m )***
+
+Toutes les relations ci-dessus sont exprimées dans le développement trigonométrique de l'Eq :
+- e = { AJ0(I)*sin(αt)+ J1(I)*(sin(a+ ,8)t-sin(a- ,8)) + J2(I)*(sin(a+2,8)t+sin(a-2,8)) + J3(I)*(sin(a+3,8)t-sin(a-3,8) }
 
 ## Spectre généré
 ## Raffinements possibles
