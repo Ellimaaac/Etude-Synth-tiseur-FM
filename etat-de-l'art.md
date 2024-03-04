@@ -11,4 +11,7 @@ La maîtrise des techniques d’oscillations électriques d’amplification et d
 
 Les années 30 sont marquées par les instruments électromécaniques et électroacoustiques. Les premiers laissent une grande part à l’expérimentation en introduisant au sein de l’instrument des dispositifs mécaniques dont les composants sont électriques, à l’image de l’orgue Hammond, instrument à clavier et à pédalier datant de 1934, constitué d’un générateur de sons à roues phoniques. Les seconds, de facture traditionnelle (par exemple, la guitare), intègrent des technologies d’amplification électrique (le haut-parleur, le microphone).
 
+<p align="center"><img src="images/hammond.png" width="500" /></p>
+
+
 Ces innovations technologiques successives, premières tentatives de resynthétiser des instruments de facture « traditionnelle », permettent l’avènement du synthétiseur.
