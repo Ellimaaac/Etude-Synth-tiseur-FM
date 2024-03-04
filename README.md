@@ -13,5 +13,9 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 # 1. Etude théorique
 
 ## Principe de la modulation
+
+interet : 
+
+
 ## Spectre généré
 ## Raffinements possibles
