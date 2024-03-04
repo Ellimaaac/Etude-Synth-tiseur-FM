@@ -29,7 +29,7 @@ modulé en fréquence sont les suivants :
 - d = écart maximal.
 
 L'équation d'une onde modulée en fréquence d'amplitude de crête A, où l'onde porteuse et l'onde modulante sont toutes deux des sinusoïdes, est la suivante :
-- ***e = A sin(at + I sin,Bt)*** (1)
+- ***e = A sin(at + I sin,Bt)***
 
 ou
 
