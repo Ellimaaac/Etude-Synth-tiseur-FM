@@ -4,11 +4,10 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 # Sommaire
 1.  [Etude théorique](#1-etude-théorique)
     - [Principe de la modulation](#principe-de-la-modulation)
-    - [Spectre généré](#spectre-généré)
+    - [Application théorique sur matlab](#-Application-théorique-sur-matlab)
     - [Raffinements possibles](#raffinements-possibles)
 2.  Mise en oeuvre de la synthèse sonore
-    - Application théorique sur matlab
-    - Application expérimentale sur MaxMSP 
+      - Application expérimentale sur MaxMSP 
 
 # 1. Etude théorique
 
@@ -21,8 +20,7 @@ A la fin de ce document, nous présentons quelques simulations de sons de cuivre
 
 ## Principe de la modulation
 
-En FM, la fréquence instantanée d'une onde porteuse varie en fonction d'une onde modulante, de sorte que la vitesse à laquelle la porteuse varie est la fréquence de l'onde modulante, ou fréquence de modulation. La variation de la porteuse autour de sa moyenne, ou écart de fréquence de crête, est proportionnelle à l'amplitude de l'onde modulante. Les paramètres d'un signal 
-modulé en fréquence sont les suivants :
+En FM, la fréquence instantanée d'une onde porteuse varie en fonction d'une onde modulante, de sorte que la vitesse à laquelle la porteuse varie est la fréquence de l'onde modulante. La variation de la porteuse autour de sa moyenne (ou écart de fréquence de crête) est proportionnelle à l'amplitude de l'onde modulante. Les paramètres d'un signal modulé en fréquence sont les suivants :
 
 - c = fréquence de la porteuse ou fréquence moyenne
 - m = fréquence de modulation
@@ -43,5 +41,5 @@ La largeur de bande totale est approximativement égale à deux fois la somme de
 Toutes les relations ci-dessus sont exprimées dans le développement trigonométrique de l'Eq :
 - e = { A*J0(I)*sin(αt)+ J1(I)*(sin(a+ ,8)t-sin(a- ,8)) + J2(I)*(sin(a+2,8)t+sin(a-2,8)) + J3(I)*(sin(a+3,8)t-sin(a-3,8) }
 
-## Spectre généré
+## Application théorique sur matlab
 ## Raffinements possibles
