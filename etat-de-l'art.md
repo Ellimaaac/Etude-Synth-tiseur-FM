@@ -34,4 +34,9 @@ Au cours de cette décennie la miniaturisation et la baisse du prix de revient d
 - La même année, Robert Moog met au point le contrôle en tension (voltage control) et développe un instrument piloté par clavier, composé de modules autonomes. Dans le même temps, un autre Américain, Donald Buchla, a lui aussi l’idée d’utiliser des modules interconnectables ;
 - Le synthétiseur VCS-3 développé en 1969 par la firme anglaise EMS propose pour la première fois des modules non séparés, conçus comme un ensemble. Il marque le début des modèles à modules précâblés, déterminés au préalable par les différents fabricants.
 
+  <p align="center"><img src="images/rca.png" width="200" /></p>
+
+
 Un peu plus de dix ans auront ainsi suffi pour passer des prototypes de laboratoire aux installations produisant des instruments à une échelle industrielle. Les synthétiseurs s’apparentent bientôt à des biens de consommation courante et le marketing est dynamique. Les artisans du synthétiseur se marginalisent rapidement au profit des grandes marques.
+
+## Les premiers synthétiseurs FM
