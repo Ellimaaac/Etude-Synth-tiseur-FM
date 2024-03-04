@@ -2,7 +2,7 @@
 data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synthese_FM.pdf)
 
 # Sommaire
-1.  [Etude théorique](#-Etude-théorique)
+1.  [Etude théorique](#-1-Etude-théorique)
     - [Principe de la modulation](#-Principe-de-la-modulation)
     - [Spectre généré]()
     - [Raffinements possibles](#-raffienements-possibles)
