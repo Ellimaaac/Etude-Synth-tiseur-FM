@@ -3,9 +3,9 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 
 # Sommaire
 1.  [Etude théorique](#1-etude-théorique)
-    - [Principe de la modulation](#-Principe-de-la-modulation)
-    - [Spectre généré]()
-    - [Raffinements possibles](#-raffienements-possibles)
+    - [Principe de la modulation](#principe-de-la-modulation)
+    - [Spectre généré](#spectre-généré)
+    - [Raffinements possibles](#raffinements-possibles)
 2.  Mise en oeuvre de la synthèse sonore
     - Application théorique sur matlab
     - Application expérimentale sur MaxMSP 
