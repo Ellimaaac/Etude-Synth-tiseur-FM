@@ -29,15 +29,14 @@ modulé en fréquence sont les suivants :
 - d = écart maximal.
 
 L'équation d'une onde modulée en fréquence d'amplitude de crête A, où l'onde porteuse et l'onde modulante sont toutes deux des sinusoïdes, est la suivante :
-- e = A sin(at + I sin,Bt) (1)
+-*** e = A sin(at + I sin,Bt)*** (1)
 
 ou
 
 - e  = l'amplitude instantanée de l'onde porteuse modulée
 - α = la fréquence de la porteuse en rad/ s
-- β = la fréquence de modulation en radis
-- I = dl m = l'indice de modulation, le rapport entre l'écart maximal et la fréquence de modulation.
-
+- β = la fréquence de modulation en rad/s
+- ***I = d/m*** = l'indice de modulation, le rapport entre l'écart maximal et la fréquence de modulation.
 
 
 ## Spectre généré
