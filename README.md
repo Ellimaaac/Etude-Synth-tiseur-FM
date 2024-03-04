@@ -6,7 +6,11 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
     - [Principe de la modulation](#principe-de-la-modulation)
     - [Spectre généré](#spectre-généré)
     - [Raffinements possibles](#raffinements-possibles)
-2.  Mise en oeuvre de la synthèse sonore
+2.  Fm appliquée à la musique
+    - Opérateur
+    - Algorythmes 
+    
+4.  Mise en oeuvre de la synthèse sonore
     - Application théorique sur matlab
     - Application expérimentale sur MaxMSP 
 
