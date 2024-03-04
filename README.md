@@ -2,11 +2,12 @@
 data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synthese_FM.pdf)
 
 # Sommaire
-1.  [Etude théorique](#1-etude-théorique)
+1.  Etat de l'art 
+2.  [Etude théorique](#1-etude-théorique)
     - [Principe de la modulation](#principe-de-la-modulation)
     - [Spectre généré](#spectre-généré)
     - [Raffinements possibles](#raffinements-possibles)
-2.  Fm appliquée à la musique
+3.  Fm appliquée à la musique
     - Opérateur
     - Algorythmes 
     
