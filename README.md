@@ -1,1 +1,1 @@
-# Etude-Synth-tiseur-FM
+# Etude-Synthetiseur-FM
