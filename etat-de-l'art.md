@@ -1,6 +1,6 @@
 # Etat de l'art
-# Les synthétiseurs
-## Les premiers pas
+## Les synthétiseurs
+### Les premiers pas
 La naissance des sons synthétiques remonte au début du XXe siècle, lorsque les fabricants exploitent l’électricité dans la lutherie comme moyen de contrôle et de création directe. Ils restent au service d’un langage traditionnel.
 
 Les premières tentatives d’élargir la palette des instruments commencent avec le Theremin (ou Etherphone, 1922), les ondes Martenot (1928) et le Trautonium (1930). Ces premières machines musicales témoignent d’un attrait grandissant pour l’expérimentation et la mécanisation de l’exécution musicale.
