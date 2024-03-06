@@ -40,5 +40,16 @@ La largeur de bande totale est approximativement égale à deux fois la somme de
 
 PHOTO SUR MATLAB
 
+Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. Vous pouvez jeter un œil au dossier sur les fonctions de synthèse pour comprendre la fonction de chacun.
+
+Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
+
+PHOTO OPERATEUR
+
+Ce schéma présente le fonctionnement de la synthèse FM avec deux opérateurs, mais il est possible d’en avoir bien plus !
+Comme la synthèse additive, la synthèse FM est capable de créer des ondes très complexes, pleines d’harmoniques, mais avec seulement deux opérateurs au lieu d’un oscillateur par harmonique.
+
+
+
 ## Application théorique sur matlab
 ## Raffinements possibles
