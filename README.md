@@ -7,7 +7,7 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
     - [Principe de la modulation](#principe-de-la-modulation)
     - [Spectre généré](#spectre-généré)
     - [Raffinements possibles](#raffinements-possibles)
-3.  Fm appliquée à la musique
+3.  La synthèse FM
     - Opérateur
     - Algorythmes 
     
