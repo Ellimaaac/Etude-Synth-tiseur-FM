@@ -17,7 +17,7 @@ Les années 30 sont marquées par les instruments électromécaniques et électr
 
 Ces innovations technologiques successives, premières tentatives de resynthétiser des instruments de facture « traditionnelle », permettent l’avènement du synthétiseur.
 
-##  Les premiers synthétiseurs
+### Les premiers synthétiseurs
 
 En 1952, la firme américaine RCA (Radio Corporation of America) développe le premier synthétiseur créé par Harry Olson et Herbert Belar, capable de créer artificiellement des sons.
 
