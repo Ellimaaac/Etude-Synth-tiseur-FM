@@ -1,5 +1,5 @@
 # Etat de l'art
-
+# Les synthétiseurs
 ## Les premiers pas
 La naissance des sons synthétiques remonte au début du XXe siècle, lorsque les fabricants exploitent l’électricité dans la lutherie comme moyen de contrôle et de création directe. Ils restent au service d’un langage traditionnel.
 
