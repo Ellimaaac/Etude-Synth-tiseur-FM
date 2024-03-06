@@ -38,6 +38,7 @@ ou
 
 La largeur de bande totale est approximativement égale à deux fois la somme de l'écart de fréquence et de la fréquence de modulation : ***BW = 2 ( d + m )***
 
+PHOTO SUR MATLAB
 
 ## Application théorique sur matlab
 ## Raffinements possibles
