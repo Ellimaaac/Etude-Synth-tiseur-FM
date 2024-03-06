@@ -41,6 +41,9 @@ Un peu plus de dix ans auront ainsi suffi pour passer des prototypes de laborato
 
 ## Les premiers synthétiseurs FM
 
+### Histoire
 La synthèse FM (génération numérique de sons par Modulation de Fréquence) a été découverte plus ou moins par accident par John Chowning, au début des 70s, en expérimentant avec un synthé analogique de son université. Chowning remarque que les fréquences aiguës peuvent modifier le timbre de sa forme d’onde de base : c’est ainsi qu’est née la synthèse FM ! Le brevet a été par la suite racheté par Yamaha, qui l’a utilisé dans son synthétiseur DX7, un modèle qui changera le monde de la musique.
 
 Avant l’invention de la synthèse FM, c’est la synthèse analogique (soustractive) qui est à l’ordre du jour. Elle permet de créer de beaux sons, mais a néanmoins certaines limites. À l’époque, les premiers samplers constituent la seule alternative, mais ils ne sont pas exactement abordables… Grâce à la synthèse FM, le processus de créer des sons inédits devient accessible à tout le monde. Quelques années plus tard, quand les prix des samplers et des ROMplers commencent à tomber, la synthèse FM commence à perdre de sa popularité. Beaucoup plus tard, après l’arrivée des synthétiseurs logiciels (entre autres au format VST), les synthés FM reprennent du terrain. Et c’est à partir de là que les choses commencent vraiment à décoller.
+
+### Evolution
