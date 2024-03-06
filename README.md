@@ -1,5 +1,8 @@
 # Etude-Synthetiseur-FM
+
 data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synthese_FM.pdf)
+
+<p align="center"><img src="images/goal.png" width="500" /></p>
 
 # Sommaire
 1.  [Etat de l'art](etat-de-l'art.md) 
