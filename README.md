@@ -4,7 +4,6 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 # Sommaire
 1.  [Etude théorique](#1-etude-théorique)
     - [Principe de la modulation](#principe-de-la-modulation)
-    - [Principe de la synthèse FM]
     - [Application théorique sur matlab](#Application-théorique-sur-matlab)
     - [Raffinements possibles](#raffinements-possibles)
 2.  Mise en oeuvre de la synthèse sonore
