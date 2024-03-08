@@ -49,6 +49,41 @@ La largeur de bande totale est approximativement égale à deux fois la somme de
 
 <p align="center"><img src="images/TF_FM_Modulation.png" width="500" /></p>
 
+
+
+En outre, la synthèse de fréquence modulée (FM) et les fonctions de Bessel sont étroitement liées.
+## Relation privilégiée entre FM et Bessel
+#### Petit rappel :
+Les fonctions de Bessel sont des solutions à l’équation différentielle de Bessel.
+
+photo
+
+Elles apparaissent dans divers problèmes mathématiques et physiques, notamment la conduction de la chaleur, l’électromagnétisme et la diffraction.
+Mathématiquement, les fonctions de Bessel de première espèce Jn​(x) sont données par :
+
+photo expression
+
+où Γ(n) est la fonction gamma.
+
+Les fonctions de Bessel sont oscillantes et jouent un rôle crucial dans la synthèse FM.
+
+La répartition en fréquence des partiels générés par la synthèse FM est déterminée par le rapport entre la fréquence de la porteuse et celle de la modulante.
+Les fonctions de Bessel apparaissent dans l’expression mathématique de la modulation d’amplitude (AM) et de la modulation de fréquence (FM).
+L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel.
+Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Besse
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. Vous pouvez jeter un œil au dossier sur les fonctions de synthèse pour comprendre la fonction de chacun.
 
 Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
