@@ -88,21 +88,19 @@ Plus précisément, la modulation FM peut être exprimée en termes de fonctions
 
 ## La synthèse FM
 ### Opérateur
-Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. 
-
+Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
 
 <p align="center"><img src="images/opérateur.png" width="150" /></p>
 
+Ce schéma, ci-dessous, présente le fonctionnement de la synthèse FM avec deux opérateurs, mais il est possible d’en avoir bien plus ! Comme la synthèse additive, la synthèse FM est capable de créer des ondes très complexes, pleines d’harmoniques, mais avec seulement deux opérateurs au lieu d’un oscillateur par harmonique.
+
 <p align="center"><img src="images/2opérateurs.png" width="150" /></p>
 
-
-Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
-
-
-Ce schéma présente le fonctionnement de la synthèse FM avec deux opérateurs, mais il est possible d’en avoir bien plus !
-Comme la synthèse additive, la synthèse FM est capable de créer des ondes très complexes, pleines d’harmoniques, mais avec seulement deux opérateurs au lieu d’un oscillateur par harmonique.
 ### Algorythmes 
 
+<p align="center"><img src="images/FM_algo1.gif" width="150" /></p>
+
+<p align="center"><img src="images/FM_algo16.gif" width="150" /></p>
 
 ## Application théorique sur matlab/simulink
 ## Raffinements possibles
