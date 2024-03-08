@@ -96,6 +96,6 @@ Comme la synthèse additive, la synthèse FM est capable de créer des ondes tr�
 
 
 
-## Application théorique sur matlab
+## Application théorique sur matlab/simulink
 ## Raffinements possibles
 
