@@ -10,9 +10,9 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
     - [Principe de la modulation](#principe-de-la-modulation)
     - [Relation entre FM et Bessel](#relation-privilégiée-entre-fm-et-bessel)
     - [Raffinements possibles](#raffinements-possibles)
-3.  La synthèse FM
-    - Opérateur
-    - Algorythmes 
+3.  [La synthèse FM](#la-synthèse-fm)
+    - [Opérateur](#opérateur)
+    - [Algorythmes](#Algorythmes)
 4.  Mise en oeuvre de la synthèse sonore
     - Application théorique sur matlab
     - Application expérimentale sur MaxMSP 
