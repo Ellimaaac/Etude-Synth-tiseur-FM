@@ -91,7 +91,9 @@ Plus précisément, la modulation FM peut être exprimée en termes de fonctions
 Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. 
 
 
-PHOTO OPERATEUR
+<p align="center"><img src="images/opérateur.png" width="150" /></p>
+
+<p align="center"><img src="images/2opérateurs.png" width="150" /></p>
 
 
 Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
