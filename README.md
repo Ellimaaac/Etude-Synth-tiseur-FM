@@ -68,9 +68,12 @@ où Γ(n) est la fonction gamma.
 Les fonctions de Bessel sont oscillantes et jouent un rôle crucial dans la synthèse FM.
 
 La répartition en fréquence des partiels générés par la synthèse FM est déterminée par le rapport entre la fréquence de la porteuse et celle de la modulante.
+
 Les fonctions de Bessel apparaissent dans l’expression mathématique de la modulation d’amplitude (AM) et de la modulation de fréquence (FM).
+
 L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel.
-Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Besse
+
+Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Bessel
 
 
 
