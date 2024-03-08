@@ -56,12 +56,12 @@ En outre, la synthèse de fréquence modulée (FM) et les fonctions de Bessel so
 #### Petit rappel :
 Les fonctions de Bessel sont des solutions à l’équation différentielle de Bessel.
 
-photo
+<p align="center"><img src="images/bessel.png" width="500" /></p>
 
 Elles apparaissent dans divers problèmes mathématiques et physiques, notamment la conduction de la chaleur, l’électromagnétisme et la diffraction.
 Mathématiquement, les fonctions de Bessel de première espèce Jn​(x) sont données par :
 
-photo expression
+<p align="center"><img src="images/bessel.png" width="500" /></p>
 
 où Γ(n) est la fonction gamma.
 
@@ -72,6 +72,9 @@ La répartition en fréquence des partiels générés par la synthèse FM est d�
 Les fonctions de Bessel apparaissent dans l’expression mathématique de la modulation d’amplitude (AM) et de la modulation de fréquence (FM).
 
 L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel.
+
+<p align="center"><img src="images/I_expression.png" width="500" /></p>
+
 
 Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Bessel
 
