@@ -17,7 +17,8 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
     - Application théorique sur matlab
     - Application expérimentale sur MaxMSP 
 
-# 1. Etat de l'art [lien](etat-de-l'art.md)
+# 1. Etat de l'art 
+[lien](etat-de-l'art.md)
 # 2. Etude théorique
 
 ## Introduction
