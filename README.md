@@ -38,7 +38,9 @@ ou
 
 La largeur de bande totale est approximativement égale à deux fois la somme de l'écart de fréquence et de la fréquence de modulation : ***BW = 2 ( d + m )***
 
-PHOTO SUR MATLAB
+<p align="center"><img src="images/FM_Modulation.png" width="500" /></p>
+
+<p align="center"><img src="images/FT_FM_Modulation.png" width="500" /></p>
 
 Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. Vous pouvez jeter un œil au dossier sur les fonctions de synthèse pour comprendre la fonction de chacun.
 
