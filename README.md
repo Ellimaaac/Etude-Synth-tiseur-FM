@@ -45,9 +45,9 @@ ou
 
 La largeur de bande totale est approximativement égale à deux fois la somme de l'écart de fréquence et de la fréquence de modulation : ***BW = 2 ( d + m )***
 
-<p align="center"><img src="images/FM_Modulation.png" width="100" /></p>
+<p align="center"><img src="images/FM_Modulation.png" width="500" /></p>
 
-<p align="center"><img src="images/TF_FM_Modulation.png" width="100" /></p>
+<p align="center"><img src="images/TF_FM_Modulation.png" width="500" /></p>
 
 
 
@@ -56,12 +56,12 @@ En outre, la synthèse de fréquence modulée (FM) et les fonctions de Bessel so
 #### Petit rappel :
 Les fonctions de Bessel sont des solutions à l’équation différentielle de Bessel.
 
-<p align="center"><img src="images/bessel.png" width="100" /></p>
+<p align="center"><img src="images/bessel.png" width="300" /></p>
 
 Elles apparaissent dans divers problèmes mathématiques et physiques, notamment la conduction de la chaleur, l’électromagnétisme et la diffraction.
 Mathématiquement, les fonctions de Bessel de première espèce Jn​(x) sont données par :
 
-<p align="center"><img src="images/bessel.png" width="100" /></p>
+<p align="center"><img src="images/bessel.png" width="300" /></p>
 
 où Γ(n) est la fonction gamma.
 
@@ -73,7 +73,7 @@ Les fonctions de Bessel apparaissent dans l’expression mathématique de la mod
 
 L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel.
 
-<p align="center"><img src="images/I_expression.png" width="500" /></p>
+<p align="center"><img src="images/I_expression.png" width="300" /></p>
 
 
 Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Bessel
