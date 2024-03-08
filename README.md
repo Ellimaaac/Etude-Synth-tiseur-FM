@@ -57,7 +57,7 @@ En outre, la synthèse de fréquence modulée (FM) et les fonctions de Bessel so
 #### Petit rappel :
 Les fonctions de Bessel sont des solutions à l’équation différentielle de Bessel.
 
-<p align="center"><img src="images/bessel.png" width="200" /></p>
+<p align="center"><img src="images/besssel.png" width="200" /></p>
 
 Elles apparaissent dans divers problèmes mathématiques et physiques, notamment la conduction de la chaleur, l’électromagnétisme et la diffraction.
 Mathématiquement, les fonctions de Bessel de première espèce Jn​(x) sont données par :
