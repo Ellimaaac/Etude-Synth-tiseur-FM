@@ -73,7 +73,7 @@ Les fonctions de Bessel apparaissent dans l’expression mathématique de la mod
 
 L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel.
 
-<p align="center"><img src="images/I_expression.png" width="200" /></p>
+<p align="center"><img src="images/I_expression.png" width="150" /></p>
 
 
 Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Bessel
