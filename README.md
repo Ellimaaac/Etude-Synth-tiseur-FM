@@ -9,7 +9,6 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 2.  [Etude théorique](#1-etude-théorique)
     - [Principe de la modulation](#principe-de-la-modulation)
     - [Relation entre FM et Bessel](#relation-privilégiée-entre-fm-et-bessel)
-    - [Raffinements possibles](#raffinements-possibles)
 3.  [La synthèse FM](#la-synthèse-fm)
     - [Opérateur](#opérateur)
     - [Algorythmes](#Algorythmes)
