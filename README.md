@@ -108,6 +108,3 @@ Ce schéma, ci-dessous, présente le fonctionnement de la synthèse FM avec deux
 - Création d'une synthèse FM sur matlab
 - Création d'une synthèse FM sur simulink
 - Création d'un synthétiseur FM sur PureData 
-    
-## Raffinements possibles
-
