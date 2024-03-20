@@ -12,7 +12,7 @@ data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synt
 3.  [La synthèse FM](#la-synthèse-fm)
     - [Opérateur](#opérateur)
     - [Algorythmes](#Algorythmes)
-4.  Mise en oeuvre de la synthèse sonore
+4.  [Mise en oeuvre de la synthèse sonore](#Mise_en_oeuvre-de-la-synthèse-sonore)
     - Application théorique sur matlab
     - Application expérimentale sur MaxMSP 
 
