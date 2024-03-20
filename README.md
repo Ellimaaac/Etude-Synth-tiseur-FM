@@ -107,5 +107,4 @@ Un algoritme FM est une association de 6 oscillateurs (ou "opérateurs"), dont u
 
 ## Application théorique sur matlab/simulink
 - Création d'une synthèse FM sur matlab
-- Création d'une synthèse FM sur simulink
 - Création d'un synthétiseur FM sur PureData 
