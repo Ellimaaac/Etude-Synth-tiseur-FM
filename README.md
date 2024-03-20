@@ -95,7 +95,7 @@ Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nou
 
 Ce schéma, ci-dessous, présente le fonctionnement de la synthèse FM avec deux opérateurs, mais il est possible d’en avoir bien plus ! Comme la synthèse additive, la synthèse FM est capable de créer des ondes très complexes, pleines d’harmoniques, mais avec seulement deux opérateurs au lieu d’un oscillateur par harmonique.
 
-<p align="center"><img src="images/2opérateurs.png" width="300" /></p>
+<p align="center"><img src="images/2opérateurs.png" width="350" /></p>
 
 ### Algorythmes 
 
