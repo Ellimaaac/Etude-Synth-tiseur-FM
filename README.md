@@ -75,11 +75,6 @@ Plus précisément, la modulation FM peut être exprimée en termes de fonctions
 
 
 
-
-
-
-
-
 ## La synthèse FM
 ### Opérateur
 Dans cette forme de synthèse, au lieu d’utiliser de simples oscillateurs, nous utiliserons des opérateurs qui sont la combinaison d’un oscillateur (sinus), d’un amplificateur et d’un générateur d’enveloppe. Ce n’est donc plus seulement un oscillateur qui agit sur un autre, mais un opérateur qui module un autre opérateur.
@@ -97,6 +92,6 @@ Un algoritme FM est une association de 6 oscillateurs (ou "opérateurs"), dont u
 <p align="center"><img src="images/FM_algo1.gif" width="200" />
 <img src="images/FM_algo16.gif" width="200" /></p>
 
-## Application théorique sur matlab/simulink
+## Applications sur matlab et MSP
 - Création d'une synthèse FM sur matlab
 - Création d'un synthétiseur FM sur PureData 
