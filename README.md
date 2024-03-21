@@ -94,9 +94,8 @@ Ce schéma, ci-dessous, présente le fonctionnement de la synthèse FM avec deux
 
 Le principe des "algorithmes"  est implantés dans les synthétiseurs, par exemple le DX7. Il repose sur l'association d'oscillateurs.
 Un algoritme FM est une association de 6 oscillateurs (ou "opérateurs"), dont un au moins est modulé en fréquence (32 algorithmes dans le DX7 ).
-<p align="center"><img src="images/FM_algo1.gif" width="300" /></p>
-
-<p align="center"><img src="images/FM_algo16.gif" width="350" /></p>
+<p align="center"><img src="images/FM_algo1.gif" width="200" />
+<img src="images/FM_algo16.gif" width="200" /></p>
 
 ## Application théorique sur matlab/simulink
 - Création d'une synthèse FM sur matlab
