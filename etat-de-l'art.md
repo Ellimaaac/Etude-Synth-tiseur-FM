@@ -59,5 +59,20 @@ Le GS1 n’était pas commercialisé comme un synthétiseur – il ne permettait
 
 
 ### L’arrivée du DX7 transforme la scène musicale
+Le DX7 introduisit plusieurs innovations majeures, dont un écran LCD permettant la visualisation des paramètres et la nomination des sons, ainsi que l'utilisation de cartouches mémoire pour stocker des sons professionnels. De plus, sa mécanique de clavier sensible à la vélocité et à la pression améliorait considérablement l'expression musicale, tandis que sa compatibilité MIDI ouvrait de nouvelles possibilités d'interconnexion et de contrôle. En résumé, le DX7 s'est imposé comme un instrument révolutionnaire, influençant profondément la musique des années 80, notamment dans les genres dance et techno, grâce à ses capacités sonores et à sa polyvalence remarquable.
 
-Malgré tout, deux ans après avoir développé un générateur de sons FM, créé une interface utilisateur de programmation et d’édition de sons, et mis sur le marché le GS1 avec succès, Yamaha présenta son synthétiseur à modulation de fréquence, le DX7. Au cœur du générateur de sons FM réside le concept d’opérateur : un composant fondamental utilisé pour générer et modifier le son. Là où le GS1 disposait de quatre opérateurs, le nouveau DX7 en propose six, ce qui lui permet de créer des sons bien plus élaborés. De plus, ce synthétiseur révolutionnaire intègre une interface utilisateur permettant de créer et de modifier des sons, puis de les stocker sur des cartouches mémoire amovibles, le tout pour un dixième du prix d’un GS1 ! Rien d’étonnant à ce que ce nouvel instrument ait aussi profondément marqué le monde des synthétiseurs.
+Dans les années précédant le lancement du DX7, Yamaha était à la pointe de l'innovation dans le domaine des synthétiseurs. Leur exploration de la synthèse sonore par algorithme avec le prototype PAMS (Programmable Algorithm Music Synthesizer) a été une étape majeure. Cependant, la complexité de ce système rendait difficile sa commercialisation grand public.
+
+Pour résoudre ce problème, les ingénieurs de Yamaha ont simplifié le générateur de sons du synthétiseur, réduisant le nombre de paramètres et partageant des paramètres communs entre les opérateurs modulateur et porteur. Cela a conduit à la création de la gamme DX, comprenant des modèles tels que le DX1, le DX5, le DX7 et le DX9. Le DX7 en particulier a été un énorme succès dès son lancement, dominant la scène musicale des années 80.
+
+L'une des innovations les plus marquantes du DX7 était son écran LCD, une première dans l'industrie des synthétiseurs. Cet écran permettait aux utilisateurs de visualiser les paramètres et de nommer les sons, ce qui était impossible avec les synthétiseurs précédents. Cela a donné naissance à la tradition d'attribuer des noms aux sons, rendant la création et la manipulation de sons beaucoup plus conviviales.
+
+De plus, le DX7 a introduit l'utilisation de cartouches mémoire pour stocker et rappeler les sons. Cette fonctionnalité, rendue possible par la conception numérique du synthétiseur, a permis aux musiciens d'accéder à une grande variété de sons professionnels avec une précision absolue. Il était désormais possible de reproduire exactement les sons des professionnels, ce qui était révolutionnaire à l'époque.
+
+Le DX7 a également marqué l'adoption précoce par Yamaha du protocole MIDI, permettant aux musiciens d'échanger des informations numériques entre les instruments. Cela a ouvert de nouvelles possibilités d'interconnexion et de contrôle, faisant du DX7 un élément central des studios de musique et des performances live.
+
+Enfin, la qualité de jeu au clavier du DX7 a été saluée, en particulier pour sa mécanique de clavier sensible à la vélocité et à la pression. Cela a permis une modulation des sons encore plus expressive, ce qui était crucial compte tenu de la complexité des sons produits par la synthèse FM du DX7.
+
+Dans l'ensemble, le DX7 a été bien plus qu'un simple synthétiseur ; il a été une révolution dans le monde de la musique, ouvrant de nouvelles possibilités sonores et techniques qui ont façonné la musique des années 80 et au-delà.
+
+
