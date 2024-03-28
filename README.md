@@ -85,6 +85,9 @@ Ce schéma, ci-dessous, présente le fonctionnement de la synthèse FM avec deux
 
 <p align="center"><img src="images/2opérateurs.png" width="350" /></p>
 
+
+<p align="center"><img src="images/variationofI.png" width="350" /></p>
+
 ### Algorythmes 
 
 Le principe des "algorithmes"  est implantés dans les synthétiseurs, par exemple le DX7. Il repose sur l'association d'oscillateurs.
