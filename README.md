@@ -70,7 +70,7 @@ L’indice de modulation I dans la synthèse FM est lié aux fonctions de Bessel
 
 <p align="center"><img src="images/I_expression.png" width="150" /></p>
 
-<p align="center"><img src="images/variationOfI.png" width="1000" /></p>
+<p align="center"><img src="images/variationOfI.png" width="750" /></p>
 
 Plus précisément, la modulation FM peut être exprimée en termes de fonctions de Bessel.(donc relation privilégiée)
 
