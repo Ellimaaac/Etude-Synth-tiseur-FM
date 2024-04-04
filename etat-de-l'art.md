@@ -49,6 +49,9 @@ Avant l’invention de la synthèse FM, c’est la synthèse analogique (soustra
 ### Des progrès importants dans les technologies des semi-conducteurs
 Au début des années 80, les composants électroniques basés sur semi-conducteurs connaissent une explosion de popularité : des appareils impossibles à fabriquer avec les technologies antérieures commencent à apparaître sur le marché et se succèdent rapidement. Des termes tels que "circuit intégré" et "intégration à grande échelle" commencent à apparaître dans les énoncés des examens d’entrée à l’université, et nombre de fabricants se lancent dans la production de jeux électroniques basés sur ce type de circuits. Les avancées réalisées dans le domaine des semi-conducteurs au fil de cette décennie sont vraiment remarquables.
 
+<p align="center"><img src="images/YAMAHA_DX7.jpg" width="500" /></p>
+
+
 Une des technologies les plus notables que permettent ces progrès rapides est la synthèse FM (génération numérique de sons par modulation de fréquence). Ce procédé de synthèse sonore a été développé à l’origine à l’Université de Stanford, aux USA, et Yamaha fut la première entreprise à identifier son potentiel, signant avec l’Université un contrat de licence exclusive dès 1973.
 0
 L'un des points forts de la synthèse FM est sa capacité à recréer, avec un remarquable réalisme, les sons évolutifs et riches en harmoniques : par exemple, le piano électrique, les cuivres, le glockenspiel. Aujourd’hui, l’échantillonnage est devenu la base de la génération sonore, et comme cette technique part d’enregistrements réels, nous nous sommes habitués à ce que nos synthétiseurs restituent sans effort les sons de nombreux instruments de musique différents. Mais au début des années 80, les synthétiseurs analogiques étaient tout simplement incapables de restituer certains types de sons, comme les sons de cloches ou de percussions métalliques. Sous cet aspect, les sons FM du GS1 étaient incroyables.
