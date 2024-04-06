@@ -1,6 +1,6 @@
 # Etude-Synthetiseur-FM
 
-data sheet proposée par Reynal : [lien](datasheets/projet_Article_Chowning_Synthese_FM.pdf)
+data sheet proposée par Monsieur Reynal : [lien](datasheets/projet_Article_Chowning_Synthese_FM.pdf)
 
 <p align="center"><img src="images/goal.png" width="500" /></p>
 
